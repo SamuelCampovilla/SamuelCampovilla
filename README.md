@@ -1,16 +1,51 @@
-## Hi there 👋
+# 💫 About Me
 
-<!--
-**SamuelCampovilla/SamuelCampovilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at **PUC-Campinas**, finishing my first year with strong interests in **back-end development**, **software architecture**, and **application security**.
+I enjoy solving complex technical problems, understanding systems at a deeper level, and building clean, maintainable solutions.
 
-Here are some ideas to get you started:
+My profile combines three strengths:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Strong logic & low-level proficiency** (C is my strongest language)
+- **Curiosity for security and safe software design**
+- **A natural inclination toward technical leadership and big-picture thinking**
+
+---
+
+## 🔧 Technical Skills
+
+**Languages:**  
+C (strongest) • Python • JavaScript • HTML • CSS
+
+**Tools:**  
+Git • GitHub
+
+**Core Knowledge:**  
+Data structures • Algorithms • Software modeling • Backend fundamentals
+
+---
+
+## 🎯 Career Focus
+
+I am currently developing toward roles in:
+
+- **Backend Engineering**  
+- **Software Architecture**  
+- **Application Security (AppSec)**  
+
+My short-term goal is to strengthen my technical foundation while gaining hands-on project experience.
+
+---
+
+## 🌎 Languages
+
+- **Portuguese (BR):** Native  
+- **English:** Fluent
+
+---
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuelcampovilla1@icloud.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+
