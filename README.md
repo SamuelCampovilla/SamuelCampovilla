@@ -37,7 +37,7 @@ My short-term goal is to strengthen my technical foundation while gaining hands-
 ##  Languages
 
 - **Portuguese (BR):** Native  
-- **English:** Fluent
+- **English:** Fluent (C1 CEFR)
 
 ---
 
