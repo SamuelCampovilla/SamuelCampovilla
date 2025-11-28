@@ -5,7 +5,7 @@ I enjoy solving complex technical problems, understanding systems at a deeper le
 
 My profile combines three strengths:
 
-- **Strong logic & low-level proficiency** (C is my strongest language)
+- **Strong logic & low-level proficiency**
 - **Curiosity for security and safe software design**
 - **A natural inclination toward technical leadership and big-picture thinking**
 
