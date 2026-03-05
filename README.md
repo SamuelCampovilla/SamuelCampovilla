@@ -1,13 +1,7 @@
 # About Me
 
-I'm a Software Engineering student at **PUC-Campinas**, finishing my first year with strong interests in **back-end development**, **software architecture**, and **application security**.
-I enjoy solving complex technical problems, understanding systems at a deeper level, and building clean, maintainable solutions.
+I'm a Software Engineering student at **PUC-Campinas**. I have strong interests in **back-end development**, **software architecture**, and **application security**.
 
-My profile combines three strengths:
-
-- **Strong logic & low-level proficiency**
-- **Curiosity for security and safe software design**
-- **A natural inclination toward technical leadership and big-picture thinking**
 
 ---
 
@@ -19,18 +13,6 @@ Git • GitHub
 
 **Core Knowledge:**  
 Data structures • Algorithms • Software modeling • Backend fundamentals
-
----
-
-##  Career Focus
-
-I am currently developing toward roles in:
-
-- **Backend Engineering**  
-- **Software Architecture**  
-- **Application Security (AppSec)**  
-
-My short-term goal is to strengthen my technical foundation while gaining hands-on project experience.
 
 ---
 
