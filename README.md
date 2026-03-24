@@ -38,9 +38,3 @@ Data structures • Algorithms • Software modeling • Backend fundamentals
 - **Portuguese (BR):** Native  
 - **English:** Fluent (C1 CEFR)
 
----
-
-##  Contact:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuelcampovilla1@icloud.com) 
-
-
