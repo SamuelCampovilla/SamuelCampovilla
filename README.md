@@ -1,18 +1,35 @@
 # About Me
 
-I'm a Software Engineering student at **PUC-Campinas**. I have strong interests in **back-end development**, **software architecture**, and **application security**.
-
+Software Engineering student at PUC-Campinas focused on backend systems, data pipelines, and API architecture.
+Experience designing and building data-driven applications, including structured ETL pipelines, RESTful services, and modular backend architectures.
+Work includes handling external data ingestion, normalization, and exposing consistent interfaces for client consumption.
 
 ---
 
 #  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-**Tools:**  
-Git • GitHub
+**Languages**
+- JavaScript (Node.js)
+- Python
+- SQL
+- C
 
+**Web & Backend**
+- Node.js, Express
+- REST API design
+- Middleware architecture
 **Core Knowledge:**  
 Data structures • Algorithms • Software modeling • Backend fundamentals
+
+**Data & Storage**
+- Data modeling
+- ETL pipelines
+- Relational databases (MySQL)
+- File-based data processing (JSON / Parquet)
+
+**Tools**
+- Git, GitHub
+- Vite
 
 ---
 
