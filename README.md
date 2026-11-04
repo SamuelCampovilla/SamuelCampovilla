@@ -1,43 +1,21 @@
-# Hi there
+# Samuel Campovilla
 
-Software Engineering student at PUC-Campinas specializing in **backend systems**, **data pipelines**, and **API architecture**.
+Software Engineering undergraduate at **PUC-Campinas**, interested in understanding how software systems work, why they fail, and what makes them reliable and secure.
 
-I design and build data-driven applications with a focus on clean architecture, efficient data processing, and scalable solutions.
+I enjoy building things, but I'm equally interested in the engineering decisions, algorithms, and underlying principles that make them work.
 
----
+### What I'm building
 
-##  Tech Stack
+**[OpenPol](https://openpol.com.br/)** — A civic-tech platform I co-founded with friends to make Brazilian legislative data more accessible, understandable, and verifiable.
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+I work primarily on backend development, API design, data modeling, and ETL pipelines, integrating fragmented official datasets into a public-facing application. Building OpenPol has also made me increasingly interested in system reliability, data integrity, and application security.
 
-### Backend & APIs
-- **Node.js** & **Express** — RESTful API design and middleware architecture
-- Data modeling and ETL pipeline development
-- External data ingestion, normalization, and interface design
+### Technical toolkit
 
-### Data & Storage
-- **MySQL** — Relational database design and optimization
-- File-based processing (JSON, Parquet)
-- ETL workflows and data transformation
+- **Languages:** Python, Java, JavaScript/TypeScript, C, SQL
+- **Backend & Data:** Node.js, Express, MySQL, MongoDB, DuckDB, SQLite, Parquet
+- **Tools & Infrastructure:** Git, Linux, Nginx
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+### Research interests
 
----
-
-##  Core Knowledge
-Data Structures • Algorithms • Software Modeling • Backend Architecture
-
----
-
-##  Languages
-- **Portuguese (BR)** — Native
-- **English** — Fluent (C1 CEFR)
-
+**Cybersecurity · Cryptography · Algorithms · Distributed Systems**
